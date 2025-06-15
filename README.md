@@ -1,4 +1,4 @@
-✔ Ola me chamo Lucas Silva e estou cursando Analise e Desenvolvimento de sistema. ✔
+✔ Ola me chamo Lucas Silva e sou formado Analise e Desenvolvimento de sistema. ✔
 
  • 🤔 Estou em busca do meu primeiro estagio em  desenvolvimento de sistemas 
 
